@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+My Chatbot project
 
 ## Table of Contents
 
@@ -20,6 +20,7 @@ These are the steps to setup your local environment to run this application.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+You are just going to answer what the bots ask you.
 
 ### Any optional sections
+This is new. Trying updated readme
